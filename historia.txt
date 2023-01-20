@@ -1,3 +1,3 @@
 el siguiente archivo es de prueba 
-segundo cambio
-esta linea es para ver comparaciones
+tercer cambio
+esta linea es para ver resset
